@@ -1,25 +1,7 @@
-# fnd-orclmetrics
+1 -  git https://github.com/andre1405sousa/fndorclmetrics.git
 
-## Project setup
-```
-npm install
-```
+2 - cd ../fndorclmetrics/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+3 - npm run serve -- --port 8081
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# fnd-orclmetrics-
+4 - Ctrl-C + [click] em - Local:   http://localhost:8081/
